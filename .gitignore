@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 .vs/
+=======
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.vsix
+*.cache
+*.log
+>>>>>>> 75985983fc555c4a90c4695e29e11f36380d003c
