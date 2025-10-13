@@ -1,4 +1,19 @@
+<<<<<<< HEAD
 .vs/
 bin/
 obj/
 
+=======
+<<<<<<< HEAD
+.vs/
+=======
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.vsix
+*.cache
+*.log
+>>>>>>> 75985983fc555c4a90c4695e29e11f36380d003c
+>>>>>>> 70a398c3dcf7b3d28aff6dccc97502b57937d670
