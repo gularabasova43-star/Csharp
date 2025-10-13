@@ -20,6 +20,22 @@ namespace Heap_Stack__Ref
         //    // number+=50;
         //    //Console.WriteLine(number);
 
+           // internal class Program
+        {
+            //static void Main(string[] args)
+            {
+                //int a = 5;
+                //int b = a;
+                //b += 4;
+
+                //Console.WriteLine(a == b);
+
+               // int[] numbers = { 1, 2, 3 };
+                //int[] numbers2 = numbers;
+               // numbers2[0] = 10;
+
+               // Console.WriteLine(numbers[0]);
+
         }
     }
 }
