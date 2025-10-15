@@ -1,0 +1,15 @@
+C:\ckodlar\Array, OOP, Class\Array, OOP, Class\bin\Debug\net8.0\Array, OOP, Class.exe
+C:\ckodlar\Array, OOP, Class\Array, OOP, Class\bin\Debug\net8.0\Array, OOP, Class.deps.json
+C:\ckodlar\Array, OOP, Class\Array, OOP, Class\bin\Debug\net8.0\Array, OOP, Class.runtimeconfig.json
+C:\ckodlar\Array, OOP, Class\Array, OOP, Class\bin\Debug\net8.0\Array, OOP, Class.dll
+C:\ckodlar\Array, OOP, Class\Array, OOP, Class\bin\Debug\net8.0\Array, OOP, Class.pdb
+C:\ckodlar\Array, OOP, Class\Array, OOP, Class\obj\Debug\net8.0\Array, OOP, Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\ckodlar\Array, OOP, Class\Array, OOP, Class\obj\Debug\net8.0\Array, OOP, Class.AssemblyInfoInputs.cache
+C:\ckodlar\Array, OOP, Class\Array, OOP, Class\obj\Debug\net8.0\Array, OOP, Class.AssemblyInfo.cs
+C:\ckodlar\Array, OOP, Class\Array, OOP, Class\obj\Debug\net8.0\Array, OOP, Class.csproj.CoreCompileInputs.cache
+C:\ckodlar\Array, OOP, Class\Array, OOP, Class\obj\Debug\net8.0\Array, OOP, Class.sourcelink.json
+C:\ckodlar\Array, OOP, Class\Array, OOP, Class\obj\Debug\net8.0\Array, OOP, Class.dll
+C:\ckodlar\Array, OOP, Class\Array, OOP, Class\obj\Debug\net8.0\refint\Array, OOP, Class.dll
+C:\ckodlar\Array, OOP, Class\Array, OOP, Class\obj\Debug\net8.0\Array, OOP, Class.pdb
+C:\ckodlar\Array, OOP, Class\Array, OOP, Class\obj\Debug\net8.0\Array, OOP, Class.genruntimeconfig.cache
+C:\ckodlar\Array, OOP, Class\Array, OOP, Class\obj\Debug\net8.0\ref\Array, OOP, Class.dll
