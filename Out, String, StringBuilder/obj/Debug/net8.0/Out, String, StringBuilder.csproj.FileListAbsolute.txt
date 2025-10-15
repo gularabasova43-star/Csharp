@@ -1,0 +1,15 @@
+C:\ckodlar\Out, String, StringBuilder\Out, String, StringBuilder\bin\Debug\net8.0\Out, String, StringBuilder.exe
+C:\ckodlar\Out, String, StringBuilder\Out, String, StringBuilder\bin\Debug\net8.0\Out, String, StringBuilder.deps.json
+C:\ckodlar\Out, String, StringBuilder\Out, String, StringBuilder\bin\Debug\net8.0\Out, String, StringBuilder.runtimeconfig.json
+C:\ckodlar\Out, String, StringBuilder\Out, String, StringBuilder\bin\Debug\net8.0\Out, String, StringBuilder.dll
+C:\ckodlar\Out, String, StringBuilder\Out, String, StringBuilder\bin\Debug\net8.0\Out, String, StringBuilder.pdb
+C:\ckodlar\Out, String, StringBuilder\Out, String, StringBuilder\obj\Debug\net8.0\Out, String, StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\ckodlar\Out, String, StringBuilder\Out, String, StringBuilder\obj\Debug\net8.0\Out, String, StringBuilder.AssemblyInfoInputs.cache
+C:\ckodlar\Out, String, StringBuilder\Out, String, StringBuilder\obj\Debug\net8.0\Out, String, StringBuilder.AssemblyInfo.cs
+C:\ckodlar\Out, String, StringBuilder\Out, String, StringBuilder\obj\Debug\net8.0\Out, String, StringBuilder.csproj.CoreCompileInputs.cache
+C:\ckodlar\Out, String, StringBuilder\Out, String, StringBuilder\obj\Debug\net8.0\Out, String, StringBuilder.sourcelink.json
+C:\ckodlar\Out, String, StringBuilder\Out, String, StringBuilder\obj\Debug\net8.0\Out, String, StringBuilder.dll
+C:\ckodlar\Out, String, StringBuilder\Out, String, StringBuilder\obj\Debug\net8.0\refint\Out, String, StringBuilder.dll
+C:\ckodlar\Out, String, StringBuilder\Out, String, StringBuilder\obj\Debug\net8.0\Out, String, StringBuilder.pdb
+C:\ckodlar\Out, String, StringBuilder\Out, String, StringBuilder\obj\Debug\net8.0\Out, String, StringBuilder.genruntimeconfig.cache
+C:\ckodlar\Out, String, StringBuilder\Out, String, StringBuilder\obj\Debug\net8.0\ref\Out, String, StringBuilder.dll
